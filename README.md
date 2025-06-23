@@ -1,6 +1,6 @@
 # Password_generator
 StaxTech Internship Task - 1
-https://i.imgur.com/xyz1234.png
+![Uploading image.png…]()
 
 A beautiful, customizable, and secure password generator with a stunning cosmic-themed UI.
 
