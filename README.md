@@ -1,6 +1,7 @@
 # Password_generator
 StaxTech Internship Task - 1
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/d6f67427-3db7-4e7d-a5e7-faa91fb7c75d)
 
 A beautiful, customizable, and secure password generator with a stunning cosmic-themed UI.
 
